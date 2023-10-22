@@ -30,4 +30,3 @@ getPromise().then((data) => {
 });
 
 export {};
-3;
